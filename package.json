@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "prueba para probar git",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eogieglo/prueba-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eogieglo/prueba-node/issues"
+  },
+  "homepage": "https://github.com/eogieglo/prueba-node#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
