@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSessionData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SessionData SessionId="1002 Rio IV/ARS" SessionName="ARS" ImageKey="computer" Host="29.160.1.252" Port="22" Proto="SSH" PuttySession="Default Settings" Username="vn0u6h0" ExtraArgs="" SPSLFileName="" RemotePath="" LocalPath="" />
+  <SessionData SessionId="1002 Rio IV/ESXI" SessionName="ESXI" ImageKey="computer" Host="29.130.5.10" Port="22" Proto="SSH" PuttySession="Default Settings" Username="" ExtraArgs="" SPSLFileName="" RemotePath="" LocalPath="" />
+  <SessionData SessionId="1002 Rio IV/IMM" SessionName="IMM" ImageKey="computer" Host="29.160.0.175" Port="22" Proto="SSH" PuttySession="Default Settings" Username="" ExtraArgs="" SPSLFileName="" RemotePath="" LocalPath="" />
+  <SessionData SessionId="1003/ars" SessionName="ars" ImageKey="computer" Host="23.0.0.0" Port="22" Proto="SSH" PuttySession="Default Settings" Username="" ExtraArgs="" SPSLFileName="" RemotePath="" LocalPath="" />
+</ArrayOfSessionData>
